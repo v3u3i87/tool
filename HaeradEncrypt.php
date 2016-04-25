@@ -157,12 +157,12 @@ class HaeradEncrypt{
 
     public function show()
     {
-        p([
+        return [
             $this->_header,
             $this->_useHeader,
             $this->_jsonHeader,
             $this->_base64_encode
-        ]);
+        ];
     }
 
 
