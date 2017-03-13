@@ -1,0 +1,15 @@
+{
+  "name": "v3u3i87/tool",
+  "description": "test description",
+  "authors": [
+    {
+      "name": "Richard,zhang",
+      "email": "v3u3i87@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "v3u3i87\\tool\\": "src/"
+    }
+  }
+}

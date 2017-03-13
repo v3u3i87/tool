@@ -1,4 +1,5 @@
 <?php
+namespace v3u3i87\tool;
 /**
  * About:Richard.z
  * Email:v3u3i87@gmail.com
