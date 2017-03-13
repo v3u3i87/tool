@@ -1,12 +1,18 @@
 {
   "name": "v3u3i87/tool",
-  "description": "test description",
+  "description": "php Personal toolkit",
+  "license": "MIT",
+  "keywords": ["php Personal toolkit"],
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Richard,zhang",
       "email": "v3u3i87@gmail.com"
     }
   ],
+  "require": {
+    "php": ">=7.*"
+  },
   "autoload": {
     "psr-4": {
       "v3u3i87\\tool\\": "src/"
